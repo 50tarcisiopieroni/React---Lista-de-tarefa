@@ -1,0 +1,19 @@
+/*
+PADRÃO DE CORES
+  input: #F2F1DF,
+  background: #AED1BB,
+  menu: #87B89A,
+
+*/
+
+*{
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing : border-box;
+}
+
+body {
+  background: #AED1BB;
+  font-family: sans-serif;
+}
